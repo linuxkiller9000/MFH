@@ -1,0 +1,10 @@
+# MFH Screen Recorder Pro
+opencv-python
+mss
+numpy
+imageio
+imageio-ffmpeg
+PyAudioWPatch
+pygame
+Pillow
+tkinterdnd2
